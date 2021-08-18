@@ -6,7 +6,7 @@
 <body>
 
 <h1>Sea Care</h1>
-<p>This is a paragraph.</p>
+<p>Nossa empresa visa elaborar um aparelho que regula e faz uma manutenção do nível de acidez das águas dos oceanos para poder salvar mais vidas marinhas.</p>
 
 </body>
 </html>
